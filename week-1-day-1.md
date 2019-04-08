@@ -316,5 +316,3 @@ Take 10 minutes and read the print out.
 <div class="tweet" data-src="https://twitter.com/ParissAthena/status/1114882081815973890"></div>
 
 <aside class="notes">You can have a lucrative career in tech even if you don't love to code. Don't let people scare you away from it because you're not coding day and night.</aside>
-
-screenshare link: https://web.use-together.com/join/app?uid=5970f9a43188bbc5f2019e6355ce8ae9&invite=78ba2dc9355b4dd2aeb35c739f0ae2c8
