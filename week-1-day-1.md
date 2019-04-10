@@ -6,7 +6,7 @@ logoImg: "https://raw.githubusercontent.com/evilz/vscode-reveal/master/images/lo
 slideNumber: true
 --- 
 
-## Data-Driven Leadership Series
+## Data-Driven Leadership
 ### Data Visualization and Application
 #### How to Use Data and Amazon Leadership Principles to be a Successful Leader
 
@@ -271,11 +271,18 @@ Take 10 minutes and read the print out.
 
 --
 
-### Page-by-Page Feedback
+<img src="img/taking-data-picture1.jpg">
+<span class="fragment">Time Series for Late Meetings</span>
 
 --
 
-### Questions?
+### Levels to the Analysis
+
+1. Hypothesis
+2. Data Collection
+3. Summary Statistics
+4. Input Levers
+5. Action
 
 ---
 
@@ -305,7 +312,7 @@ Take 10 minutes and read the print out.
 <!-- .element style="border: 0; background: None; box-shadow: None; width:100%" -->
 </span>
 
-<span class="fragment"><span class="fragment highlight-red">Complete Your User Manual: [bit.ly/NCCU-MANUALS](http://bit.ly/NCCU-MANUALS)</span></span>
+<span class="fragment"><span class="fragment highlight-red">Complete Your User Manual: [bit.ly/NCCU-UM](http://bit.ly/NCCU-UM)</span></span>
 
 <aside class="notes">These are the questions included in the user manual. This form is in the Google Drive Folder.</aside>
 
