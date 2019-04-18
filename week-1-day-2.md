@@ -112,6 +112,7 @@ Hint: It's not **everyone** <span class="fragment">nor should it be!</span>
 
 <img src="img/customer-1.png">
 <!-- .element style="border: 0; background: None; box-shadow: None; width:100%" --> 
+<aside class="notes">This woman is commuting on a bus. Think about her situation and how her needs or wants may be different in this context. Maybe she doesn’t want to use her voice to interact with her phone. Perhaps she is traveling through a part of town that has poor connectivity. Recognize that features which benefit a customer in one context may not apply in another.</aside>
 
 --
 
@@ -119,6 +120,7 @@ Hint: It's not **everyone** <span class="fragment">nor should it be!</span>
 
 <img src="img/customer-2.png">
 <!-- .element style="border: 0; background: None; box-shadow: None; width:100%" --> 
+<aside class="notes">We serve people who work in businesses around the world who rely on our marketplace to have everything they need for work, as well as customers who have data and applications in the cloud and want to operate in the most smart and efficient manner for their business.</aside>
 
 --
 
@@ -126,6 +128,7 @@ Hint: It's not **everyone** <span class="fragment">nor should it be!</span>
 
 <img src="img/customer-3.png">
 <!-- .element style="border: 0; background: None; box-shadow: None; width:100%" --> 
+<aside class="notes">How are the needs of customers in other countries different from your own? Your customer may lack access to fast, reliable Internet access. Given this context, how can you design and build an idea in a way that delights customers?</aside>
 
 --
 
@@ -133,6 +136,7 @@ Hint: It's not **everyone** <span class="fragment">nor should it be!</span>
 
 <img src="img/customer-4.png">
 <!-- .element style="border: 0; background: None; box-shadow: None; width:100%" --> 
+<aside class="notes">Does your role support an internal team? If so, think about how the thing you are building ultimately benefits end-customers. Maybe a tool or process you are building results in faster delivery or more reliable customer service. Always think how your work ultimately reaches end-customers.</aside>
 
 --
 
@@ -140,6 +144,7 @@ Hint: It's not **everyone** <span class="fragment">nor should it be!</span>
 
 <img src="img/customer-5.png">
 <!-- .element style="border: 0; background: None; box-shadow: None; width:100%" --> 
+<aside class="notes">How do customers who have disabilities access and use your product or service? Do you know how the thing you're building interacts with screen readers? Can it be used by customers who can't use a mouse?</aside>
 
 ---
 
@@ -149,15 +154,21 @@ Before building a solution, check to make sure it addresses a real customer need
 
 <span class="fragment">**Needs** are underlying functional or emotional circumstances, whereas **solutions** are the responses we build to resolve those circumstances.</span>
 
-<span class="fragment">**Solutions** must address a customer want or need -- so if we aren't clear on what they want or need, we risk wasting time and money creating solutions that don't deligh the customer.</span>
+<span class="fragment">**Solutions** must address a customer want or need -- so if we aren't clear on what they want or need, we risk wasting time and money creating solutions that don't delight the customer.</span>
 
-<span class="fragment">If you aren't sure if something is a solution or a need, try asking *"why does the customer need this?"*</span>
+<span class="fragment">Be aware, customer needs may be expressed as aspirational wants or something intangible that customers desire. Needs may also be expressed as pain points - something a person does not like or wishes was better.</span>
 
-<aside class="notes">The difference between a need and a solution can be very subtle. Solutions address needs or wants — so if we aren’t clear on what customers need or want, we risk wasting time and money creating solutions customers won’t find useful or delightful. If we jump straight to a solution without spending time thinking about customer needs, we limit our options for inventing a delightful experience for customers.
+--
 
-If we jump straight to a solution without spending time thinking about customer needs, we limit our options for inventing a delightful experience for customers. If you aren't sure if something is a solution or a need, try asking "why does the customer need this?" If it is a solution, there will be some underlying reasons, some of which might be the actual needs.
+### Show Me the Data
 
-Be aware, customer needs may be expressed as aspirational wants or something intangible that customers desire. Needs may also be expressed as pain points - something a person does not like or wishes was better.</aside>
+Now that you understand the difference between customer needs and solutions. You'll want to find data to back up your assumptions, inform your new idea, validate existing customer problems, and increase your customer obsession.
+
+---
+
+### The Five Customer Questions
+
+[Intro Video](https://workingbackwards.corp.amazon.com/core-training/introduction-working-backwards/5-customer-questions/)
 
 
 
