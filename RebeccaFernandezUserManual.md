@@ -1,4 +1,4 @@
-## Rebecca Fernandez User Manual
+## Ryan Samuelson User Manual
 
 ### What are some honest, unfiltered things about you?
 
